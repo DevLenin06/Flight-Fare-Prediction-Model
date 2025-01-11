@@ -1,7 +1,7 @@
 # Flight Fare Prediction Model (in-progress)
 
 ## Overview
-This model focuses on predicting flight prices based on various features such as airline, journey date, source, destination, and more. The data for this project comes from flight booking details, with information about flight routes, times, stops, and additional information.
+This model(in-progress) focuses on predicting flight prices based on various features such as airline, journey date, source, destination, and more. The data for this project comes from flight booking details, with information about flight routes, times, stops, and additional information.
 
 The goal of this project is to clean the dataset, analyze the features, and build a model that can predict the price of a flight based on the given features.
 
