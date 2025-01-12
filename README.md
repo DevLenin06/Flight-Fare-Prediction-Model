@@ -23,7 +23,7 @@ The dataset used for this project is available in an Excel file: `Data_Train.xls
 
   ### Data Pre-processing
   1. Handling Missing Data:
-     - We identified and handled missing values in the dataset.
+     - I identified and handled missing values in the dataset.
      - In particular, the `Route` and `Total_Stops` columns had a few missing values. The row with missing `Total_Stops` was dropped to avoid any inconsistency.
   2. Data Type Conversion:
      - The columns `Date_of_Journey`, `Dep_Time`, and `Arrival_Time` were initially in string format. These need to be converted into proper `datetime` objects.
